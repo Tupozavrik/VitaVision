@@ -1,0 +1,29 @@
+predfinal.pt
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database and user data
+*.db
+*.sqlite3
+remembertoken.dat
+
+# Logs
+*.log
+
+# PyTorch cache
+~/.cache/torch/
