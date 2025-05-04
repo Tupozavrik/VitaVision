@@ -18,7 +18,7 @@ ultralytics/yolov5 (torch.hub)
 
 
 Contacts/контакты: 
-tg: @zxcwed
-Vk: @zxcwed
-discord: @zxcwed
+tg: @zxcwed|
+Vk: @zxcwed|
+discord: @zxcwed|
 Gmail: vitavision.team@gmail.com
